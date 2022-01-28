@@ -1,0 +1,5 @@
+- university: "school"
+  location: "location"
+  degree: "degree"
+  start: "start month year"
+  end: "end month year"

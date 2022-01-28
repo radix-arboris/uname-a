@@ -1,0 +1,36 @@
+theme = "awesome-identity"
+baseURL = "https://gn.dev00ps.com"
+title = "$uname -a"
+publishDir = "docs"
+disableKinds = ["taxonomy", "term"]
+
+## Profile Configurations
+[params.profile]
+  portrait = "/images/portrait.png"
+  firstname = "Name"
+  lastname = "Here"
+  title = "Coming soon"
+  bio = """Coming soon to theaters"""
+
+[params.contacts]
+  email = "email@gmail.com"
+  github = "gndpwnd"
+  gitlab = "gitofthere"
+  #linkedin = "example"
+  twitter = "gndpwnd"
+
+[params.actions.resume]
+  name = "Resume"
+  url = "/resume"
+
+#[params.actions.source]
+#  name = "Site Source"
+#  url = "https://github.com/site/src"
+
+## Footer Configurations
+[params.footer]
+  copyright = """<i class="fab fa-linux"></i> *i use [arch](https://archlinux.org), btw* <i class="fab fa-linux"></i>"""
+  poweredBy = true
+
+[markup.goldmark.renderer]
+unsafe= true

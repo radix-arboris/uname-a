@@ -1,0 +1,16 @@
+- employer: "latest employer"
+  location: "location"
+  role: "role"
+  start: "start month year"
+  end: "Present"
+  details:
+    - detail one
+    - detail 2
+- employer: "last employer"
+  location: "location"
+  role: "role"
+  start: "start month year"
+  end: "end month year"
+  details:
+    - detail one
+    - detail 2
