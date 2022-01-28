@@ -1,4 +1,4 @@
-- name: Offensive Security Certified Professional (OSCP)
-  id: OS-548490
-  date: March 2022
-  org: Offensive Security
+- name: Cert Name
+  id: OS-XXXXXX
+  date: date
+  org: organization
