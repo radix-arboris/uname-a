@@ -1,7 +1,7 @@
 theme = "not-hugo-awesome-identity"
 baseURL = "https://gn.dev00ps.com"
 title = "$uname -a"
-publishDir = "public"
+publishDir = "docs"
 disableKinds = ["taxonomy", "term"]
 
 ## Profile Configurations
@@ -23,9 +23,9 @@ disableKinds = ["taxonomy", "term"]
   name = "Resume"
   url = "/resume"
 
-#[params.actions.source]
-#  name = "Site Source"
-#  url = "https://github.com/site/src"
+[params.actions.source]
+  name = "Site Source"
+  url = "https://github.com/gndpwnd/uname-a"
 
 ## Footer Configurations
 [params.footer]
