@@ -1,7 +1,7 @@
-theme = "awesome-identity"
+theme = "not-hugo-awesome-identity"
 baseURL = "https://gn.dev00ps.com"
 title = "$uname -a"
-publishDir = "docs"
+publishDir = "public"
 disableKinds = ["taxonomy", "term"]
 
 ## Profile Configurations
